@@ -1,5 +1,3 @@
-# Line-Follower-Robot
-
 
 # Line Follower Robot
 
@@ -56,6 +54,9 @@ if(sensor_value == 0b00011000) {
 
 ## Schematic Circuit
 
+Below are the schematic diagrams and PCB layouts designed for the line follower robot. These circuits were created to ensure efficient component placement, signal flow, and compact integration for reliable performance.
+
+
 ![App Screenshot](https://raw.githubusercontent.com/KhushiJ2911/Line-Follower-Robot/refs/heads/main/Line%20Follower%20Media/Schematic%20of%20main%20board.png)
 
 ## Sensor Array Circuit
@@ -77,3 +78,11 @@ if(sensor_value == 0b00011000) {
 | ![Main PCB](https://raw.githubusercontent.com/KhushiJ2911/Line-Follower-Robot/refs/heads/main/Line%20Follower%20Media/Sensor%20Array%20PCB%202D.jpeg) | ![Main PCB 3D](https://raw.githubusercontent.com/KhushiJ2911/Line-Follower-Robot/refs/heads/main/Line%20Follower%20Media/Sensor%20array%20PCB%203D.jpeg) |
 |:--:|:--:|
 | Main PCB | Main PCB 3D View |
+
+
+## Final Photo
+
+This the final bot.
+
+![App Screenshot](https://raw.githubusercontent.com/KhushiJ2911/Line-Follower-Robot/refs/heads/main/Line%20Follower%20Media/Final%20Bot.jpeg)
+
